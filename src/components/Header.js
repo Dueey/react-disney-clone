@@ -255,6 +255,11 @@ const SignOut = styled.div`
     border-radius: 50%;
     height: 100%;
     width: 100%;
+    border: 3px solid rgb(0, 0, 0, 0.6);
+
+    &:hover {
+      border: 3px solid #00bf7c;
+    }
   }
 
   &:hover {
