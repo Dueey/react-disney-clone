@@ -231,8 +231,7 @@ const DropDown = styled.div`
   padding: 10px;
   font-size: 14px;
   letter-spacing: 3px;
-  width: 100%;
-  width: 11vh;
+  width: 100px;
   opacity: 0;
   text-align: center;
 
